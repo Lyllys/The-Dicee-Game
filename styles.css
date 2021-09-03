@@ -1,0 +1,66 @@
+body{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #0000002a;
+}
+
+h1{
+  color: #5454C5;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  margin-top: 150px;
+  font-size: 2.5rem;
+}
+
+h2{
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
+footer{
+  margin-top: 50px;
+  text-align: center;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+.container {
+  width:100%;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dicee-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dicee {
+  width: 200px;
+  height: 200px;
+  margin: 0 40px;
+  background-color: #3E3636;
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center; 
+}
+
+.balls {
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: #5454C5;
+  margin: 0 22px;
+
+}
+
+.heart-icon{
+ width: 15px;
+}
