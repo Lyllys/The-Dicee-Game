@@ -11,7 +11,7 @@
 
 <br />
 
-<img src="https://github.com/Lyllys/The-Dicee-Game/blob/main/tela.png" alt="Tela do projeto" height="45" width="">
+<img align="center" src="https://github.com/Lyllys/The-Dicee-Game/blob/main/tela.png" alt="Tela do projeto" height="100" width="100">
 
 <br />
 
