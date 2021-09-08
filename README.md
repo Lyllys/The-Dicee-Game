@@ -10,47 +10,37 @@
 </p>
 
 <br />
-<img src=https://github.com/Lyllys/The-Dicee-Game/blob/main/tela.png" alt="Tela do projeto" height="45" width="">
 
+<img src="https://github.com/Lyllys/The-Dicee-Game/blob/main/tela.png" alt="Tela do projeto" height="45" width="">
 
 <br />
 
 <h2 id="sobre">💡 Sobre</h2>
 
-A aplicação "Sessão Pipoca" foi desenvolvida pensando em solucionar um problema real. Antes da pandemia, minha tia organizava algumas sessões que reuniam os sobrinhos para assistir algum filme. Ela chama esse evento de “Sessão Pipoca”. Toda vez que a gente ia escolher um filme era o mesmo dilema “a gente já viu esse filme?”. E nesse momento minha tia sempre falava “ a gente precisa colocar em um caderninho os filmes que já assistimos” . Nunca fizemos isso.
-
-Eu queria praticar os conhecimentos adquiridos durante a Residência em TIC/Software do Serratec, na qual fui residente de março até agosto de 2021. Pensando nessas sessões e nos filmes nunca catalogados resolvi fazer uma aplicação para finalmente cadastrarmos esses filmes.
-
-O projeto é composto pelos metódos HTTP GET, POST, PUT, DELETE. 
-
-⚠ Obs: projeto em constante desenvolvimento. 
-
+A aplicação "The Dicee Game" foi desenvolvida durante a realizaçao de um dos módulos do curso " The Complete 2021 Web Development Bootcamp" da Udemy. É um projeto simples, cuja tela possui dois quadrados, que representam os dados, respectivamente do Player 1 e do Player 2. Quando a página é atualizada os números dos dados são alterados. Conforme é dada a vitória ou empate, o cabeçalho da página também vai alterando, identificando o vencedor ou o empate. 
+ 
 <br />
 
 <h2 id="rodarProjeto">▶ Como rodar o projeto</h2>
-Para clonar o projeto e rodá-lo localmente você pode seguir os passos abaixo:
+Para clonar o projeto e rodá-lo localmente você pode seguir o passo abaixo:
 
-1. `git clone https://github.com/Lyllys/Sessao-Pipoca-API.git`
-
-2. Fazer as mudanças necessárias no application.properties
-
-⚠ Obs: Juntamente com esta API, foi desenvolvida a aplicação Sessão Pipoca. Visite [este repositório.](https://github.com/Lyllys/Sessao-Pipoca) para mais informações. 
+1. `git clone https://github.com/Lyllys/The-Dicee-Game.git`
 
 <br />
 
 <h2 id="tecnologias">🚀 Tecnologias</h2>
 
-* [Java](https://www.java.com/pt-BR/)
+* [HTML 5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
-* [Spring Boot](https://spring.io/projects/spring-boot)
+* [CSS 3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-* [Spring Tools](https://spring.io/tools)
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 <br />
 
 <h2 id="aprendizado">💻 O que eu pude praticar</h2>
 
-* Criação de uma API
+* Criação de um site utilizando HTML para a estrutura, CSS para o estilo e JavaScript puro para as funcionalidades. 
 
 <br />
 
